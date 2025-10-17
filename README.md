@@ -62,26 +62,26 @@ I specialize in designing secure, scalable, and automated environments using too
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/inam-09/&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/inam-09/&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/inam-09/&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=https://github.com/inam-09/&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
 ---
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/inam-09/&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
 
 ---
@@ -90,9 +90,9 @@ I specialize in designing secure, scalable, and automated environments using too
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/inam99)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inam-09/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inamkhan.alpari@gmail.com)
 
 </div>
 
@@ -102,7 +102,7 @@ I specialize in designing secure, scalable, and automated environments using too
   
 ### 💡 "Automating today for a smarter tomorrow"  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/inam-09&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/inam-09?label=Follow&style=social)](https://github.com/inam-09)
 
 </div>
